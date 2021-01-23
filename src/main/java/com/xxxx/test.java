@@ -3,5 +3,7 @@ package com.xxxx;
 public class test {
     public static void main(String[] args) {
         System.out.println("test01");
+        System.out.println("test01");
+        System.out.println("test01");
     }
 }
